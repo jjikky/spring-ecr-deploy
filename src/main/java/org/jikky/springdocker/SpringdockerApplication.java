@@ -18,6 +18,6 @@ class HelloWorldController {
 
     @GetMapping("/")
     public String helloWorld() {
-        return "지키의 해피해피 해피몽몽 스프링 서버";
+        return "지키의 해피몽몽 스프링 서버";
     }
 }
